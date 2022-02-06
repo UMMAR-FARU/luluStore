@@ -21,7 +21,7 @@ color: #111;
     display: flex;
     justify-items: center;
     align-items: center;
-    background: url(Frand.jpg);
+    background: url(img/Frand.jpg);
     background-size: cover;
 }
 
@@ -259,7 +259,7 @@ margin: 30px;
 }
 .testimonials
 {
-    background: url(bg2.jpg);
+    background: url(img/bg2.jpg);
     background-size: cover;
 
 }
@@ -341,7 +341,7 @@ margin: 30px;
 }
 .contact
 {
-    background: url(bg3.jpg);
+    background: url(img/bg3.jpg);
     background-size: cover;
 }
 .contactForm
@@ -449,7 +449,7 @@ margin: 30px;
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(menu.png);
+        background: url(img/menu.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
@@ -457,7 +457,7 @@ margin: 30px;
     }
     .menuToggle.active
     {
-        background: url(close.png);
+        background: url(img/close.png);
         background-size: 15px;
         background-repeat: no-repeat;
         background-position: center;
